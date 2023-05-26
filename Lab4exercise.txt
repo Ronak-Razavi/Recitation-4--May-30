@@ -1,0 +1,20 @@
+First: Your Name Array
+
+Create a program to get a user's name.
+Create an array with a length equal to the given name.
+Print the array.
+Print the location of each element in the array.
+Second: Define a new Struct for Complex Numbers
+
+Each complex number has a real part and an imaginary part. Consider a condition where the real part is zero. Also, consider a condition where the imaginary part is negative.
+Write different functions to perform the operations of addition, subtraction, multiplication, and division on two complex numbers.
+Third: Read/Write Data from File
+
+Create a node struct that can store the Red Sox data.
+Write a function called "createLinkedList" that creates a linked list of the wins of the Red Sox. The threshold value is set to 90, meaning any score greater than or equal to 90 is considered a win. The function should return a pointer that points to the head of the list. The calculation should be performed on the heap memory.
+Create a second function called "printList" that iterates through the linked list and prints out the data. Consider the appropriate input parameters for the function.
+Write a third function called "freeList" that frees the memory allocated for your linked list.
+Please review the edits and let me know if you have any further questions or if you need any additional assistance.
+
+
+ 
