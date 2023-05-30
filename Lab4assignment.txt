@@ -1,0 +1,20 @@
+Assignment: 
+Merge Two Sorted Singly Linked Lists
+Objective: The objective of this assignment is to write a C program that merges two sorted singly linked lists into a single sorted linked list.
+Requirements:
+Implement the program in the C programming language.
+The program should define a structure for a singly linked list node, including the data and a pointer to the next node.
+Write a function to create a new node with the given data.
+Write a function to insert a node at the end of a linked list.
+Write a function that merges two sorted linked lists into a single sorted list. The function should take two linked lists as input and return the merged list.
+The program should provide a function to display the elements of a linked list.
+Test the program with the following data and expected output:
+Two sorted singly linked lists:
+List 1: 1 3 5 7
+List 2: 2 4 6
+After merging the two sorted lists, the output should be:
+Merged List: 1 2 3 4 5 6 7
+Submission: 
+Submit the C program file (.c) that implements the requirements mentioned above on GitHub.
+Make sure to test the program with various inputs and verify that it produces the expected output.
+Good luck with your assignment!
